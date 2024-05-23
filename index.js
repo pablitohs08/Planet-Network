@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["⛏ Planet Network Staff Bot ⛏"];
+const statusMessages = ["⛏ Jugando en Planet Network ⛏"];
 
 
 let currentIndex = 0;
